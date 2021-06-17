@@ -4,7 +4,6 @@ Expense tracker build with React. It uses functional components with hooks and t
 
 ## Future Goals -
 
-- [ ] Add Authorization
 - [ ] PWA, Notifications
 
 ## Run Locally
